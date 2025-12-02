@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Konrad! 👋
 
-<!--
-**przychodzkikonrad-cmd/przychodzkikonrad-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | SQL & Excel Enthusiast
 
-Here are some ideas to get you started:
+I am a driven and analytical individual currently transitioning into the world of Data Analytics. With a strong background in client service, I combine soft skills with a growing technical toolkit to turn raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building my portfolio through hands-on projects and intensive self-study, focusing on solving real-world data problems.
+
+---
+
+### 🛠️ Technical Stack & Skills
+
+* **SQL:** Intermediate level (Joins, Unions, Aggregations, Subqueries, Cleaning Data).
+* **Excel:** Advanced (Pivot Tables, Power Query, Data Analysis).
+* **Data Visualization:** Currently learning **Power BI** to master storytelling with data.
+* **Languages:** Polish (Native), English (Fluent), Spanish (Intermediate).
+
+---
+
+### 🔭 What I'm currently working on
+
+* Refining my SQL skills with advanced queries (Window Functions, CTEs).
+* Building interactive dashboards in Power BI.
+* Analyzing datasets related to sales, tourism, and business trends.
+
+---
+
+### 📈 My Journey
+
+I believe in continuous learning. I dedicate time every day to expand my knowledge in data manipulation and visualization. My goal is to leverage data to help organizations make better, evidence-based decisions.
+
+---
+
+### 📫 Connect with me
+
+* **Email:** [przychodzki.konrad@gmail.com]
