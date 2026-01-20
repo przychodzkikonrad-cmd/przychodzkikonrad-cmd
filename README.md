@@ -1,6 +1,6 @@
 # Hi there, I'm Konrad! 👋
 
-### Data Analyst | SQL, Excel & Power BI
+### Aspiring Data Analyst | SQL, Excel & Power BI
 
 I am a determined individual transitioning into the world of Data Analytics. I combine a strong background in client service with a rapidly growing technical skillset. My focus is on turning raw data into clear, actionable insights using **SQL** and **Power BI**.
 
