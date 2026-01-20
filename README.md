@@ -1,36 +1,40 @@
 # Hi there, I'm Konrad! 👋
 
-### 📊 Aspiring Data Analyst | SQL & Excel Enthusiast
+### Data Analyst | SQL, Excel & Power BI
 
-I am a driven and analytical individual currently transitioning into the world of Data Analytics. With a strong background in client service, I combine soft skills with a growing technical toolkit to turn raw data into actionable business insights.
+I am a determined individual transitioning into the world of Data Analytics. I combine a strong background in client service with a rapidly growing technical skillset. My focus is on turning raw data into clear, actionable insights using **SQL** and **Power BI**.
 
-Currently, I am building my portfolio through hands-on projects and intensive self-study, focusing on solving real-world data problems.
+Currently, I am dedicating my time to building a portfolio of hands-on projects, translating business problems into data-driven solutions.
 
 ---
 
-### 🛠️ Technical Stack & Skills
+### 🛠️ Technical Toolkit
 
-* **SQL:** Intermediate level (Joins, Unions, Aggregations, Subqueries, Cleaning Data).
-* **Excel:** Advanced (Pivot Tables, Power Query, Data Analysis).
-* **Data Visualization:** Currently learning **Power BI** to master storytelling with data.
-* **Languages:** Polish (Native), English (Fluent), Spanish (Intermediate).
+| Domain | Current Proficiency & Tools |
+| :--- | :--- |
+| **Data Querying** | **SQL** (Joins, Aggregations, Subqueries, CTEs, Window Functions) |
+| **Data Visualization** | **Power BI** (Building interactive reports, Modeling data), **Excel** (Pivot Tables, Power Query) |
+| **Data Logic** | **DAX** (Writing measures, Calculated columns, Time Intelligence functions) |
+| **Soft Skills** | Client Communication, Problem Solving, Analytical Thinking |
+| **Languages** | Polish (Native), English (Fluent), Spanish (Intermediate) |
 
 ---
 
 ### 🔭 What I'm currently working on
 
-* Refining my SQL skills with advanced queries (Window Functions, CTEs).
-* Building interactive dashboards in Power BI.
-* Analyzing datasets related to sales, tourism, and business trends.
+* **Deepening Power BI knowledge:** Learning best practices for data modeling and visualization storytelling.
+* **Practical DAX application:** Writing measures to solve specific analytical challenges in my personal projects.
+* **SQL Practice:** Refining my query writing skills on larger datasets to ensure code efficiency.
 
 ---
 
-### 📈 My Journey
+### 🚀 My Journey
 
-I believe in continuous learning. I dedicate time every day to expand my knowledge in data manipulation and visualization. My goal is to leverage data to help organizations make better, evidence-based decisions.
+I believe that Data Analytics is not just about numbers, but about understanding the business context. My previous experience in client service taught me how to identify needs and communicate effectively — now I am learning to support these decisions with hard data.
 
 ---
 
 ### 📫 Connect with me
 
-* **Email:** [przychodzki.konrad@gmail.com]
+* **Email:** [przychodzki.konrad@gmail.com](mailto:przychodzki.konrad@gmail.com)
+* **Location:** Warsaw, Poland
