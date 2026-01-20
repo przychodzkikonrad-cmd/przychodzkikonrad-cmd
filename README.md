@@ -28,7 +28,7 @@ Currently, I am dedicating my time to building a portfolio of hands-on projects,
 
 ---
 
-### 🚀 My Journey
+### 📓 My Journey
 
 I believe that Data Analytics is not just about numbers, but about understanding the business context. My previous experience in client service taught me how to identify needs and communicate effectively — now I am learning to support these decisions with hard data.
 
