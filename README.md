@@ -12,8 +12,8 @@ Currently, I am dedicating my time to building a portfolio of hands-on projects,
 
 | Domain | Current Proficiency & Tools |
 | :--- | :--- |
-| **Data Querying** | **SQL** (Joins, Aggregations, Subqueries, CTEs, Window Functions) |
-| **Data Visualization** | **Power BI** (Building interactive reports, Modeling data), **Excel** (Pivot Tables, Power Query) |
+| **Data Querying** | **SQL** (data analysis, data aggregation, identifying relationships and patterns) |
+| **Data Visualization** | **Power BI** (Building interactive reports, Modeling data), **Excel** (operational data analysis, preparation of summaries and reports) |
 | **Data Logic** | **DAX** (Writing measures, Calculated columns, Time Intelligence functions) |
 | **Soft Skills** | Client Communication, Problem Solving, Analytical Thinking |
 | **Languages** | Polish (Native), English (Fluent), Spanish (Intermediate) |
